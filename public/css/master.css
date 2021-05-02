@@ -1,0 +1,15 @@
+body {
+  overflow: hidden;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+::-moz-selection {
+    background-color: transparent;
+}
+
+::selection {
+    background-color: transparent;
+}
