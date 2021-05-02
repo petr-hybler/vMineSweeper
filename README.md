@@ -1,4 +1,5 @@
-# minesweeper
+# vMineSweeper
+one of the most popular games ever :)
 
 ## Project setup
 ```
